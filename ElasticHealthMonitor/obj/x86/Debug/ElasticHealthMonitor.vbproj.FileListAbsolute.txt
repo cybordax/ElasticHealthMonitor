@@ -1,0 +1,13 @@
+c:\users\magpie\documents\visual studio 2010\Projects\ElasticHealthMonitor\ElasticHealthMonitor\bin\Debug\ElasticHealthMonitor.exe
+c:\users\magpie\documents\visual studio 2010\Projects\ElasticHealthMonitor\ElasticHealthMonitor\bin\Debug\ElasticHealthMonitor.pdb
+c:\users\magpie\documents\visual studio 2010\Projects\ElasticHealthMonitor\ElasticHealthMonitor\bin\Debug\ElasticHealthMonitor.xml
+c:\users\magpie\documents\visual studio 2010\Projects\ElasticHealthMonitor\ElasticHealthMonitor\bin\Debug\Newtonsoft.Json.dll
+c:\users\magpie\documents\visual studio 2010\Projects\ElasticHealthMonitor\ElasticHealthMonitor\bin\Debug\Newtonsoft.Json.pdb
+c:\users\magpie\documents\visual studio 2010\Projects\ElasticHealthMonitor\ElasticHealthMonitor\bin\Debug\Newtonsoft.Json.xml
+c:\users\magpie\documents\visual studio 2010\Projects\ElasticHealthMonitor\ElasticHealthMonitor\obj\x86\Debug\ElasticHealthMonitor.vbprojResolveAssemblyReference.cache
+c:\users\magpie\documents\visual studio 2010\Projects\ElasticHealthMonitor\ElasticHealthMonitor\obj\x86\Debug\ElasticHealthMonitor.Form1.resources
+c:\users\magpie\documents\visual studio 2010\Projects\ElasticHealthMonitor\ElasticHealthMonitor\obj\x86\Debug\ElasticHealthMonitor.Resources.resources
+c:\users\magpie\documents\visual studio 2010\Projects\ElasticHealthMonitor\ElasticHealthMonitor\obj\x86\Debug\ElasticHealthMonitor.vbproj.GenerateResource.Cache
+c:\users\magpie\documents\visual studio 2010\Projects\ElasticHealthMonitor\ElasticHealthMonitor\obj\x86\Debug\ElasticHealthMonitor.exe
+c:\users\magpie\documents\visual studio 2010\Projects\ElasticHealthMonitor\ElasticHealthMonitor\obj\x86\Debug\ElasticHealthMonitor.xml
+c:\users\magpie\documents\visual studio 2010\Projects\ElasticHealthMonitor\ElasticHealthMonitor\obj\x86\Debug\ElasticHealthMonitor.pdb
